@@ -97,6 +97,6 @@
     "webpack-merge": "4.1.4"
   },
   "dependencies": {
-    "npm": "^6.4.1"
+    "npm": "^6.9.0"
   }
 }
