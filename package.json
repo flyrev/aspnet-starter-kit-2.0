@@ -68,6 +68,7 @@
     "event-source-polyfill": "0.0.16",
     "file-loader": "2.0.0",
     "history": "4.7.2",
+    "isomorphic-style-loader": "^5.0.1",
     "jest": "^23.5.0",
     "jest-cli": "^23.5.0",
     "mini-css-extract-plugin": "^0.4.3",
